@@ -104,20 +104,3 @@ This practical background helps me connect AI-based construction safety research
 `Human Pose Estimation` `BIM` `AR/VR` `3D Vision`
 
 ---
-
-## <img src="https://img.icons8.com/3d-fluency/64/link.png" width="45"/> Connect with Me
-
-- **Institution:** Sungkyunkwan University
-- **Laboratory:** Smart Construction Information Technology Laboratory, SKKU
-- **Research field:** AI-based Construction Safety and Smart Construction
-- **Website:** https://sites.google.com/view/skkuscit
-
----
-
-<div align="center">
-
-<img src="https://img.icons8.com/3d-fluency/96/construction.png" width="90"/>
-
-### Building AI-driven safety intelligence for smart construction environments.
-
-</div>
