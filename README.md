@@ -70,9 +70,3 @@ This practical background helps me connect AI-based construction safety research
 
 ---
 
-## 📫 Connect with Me
-
-- Institution: Sungkyunkwan University
-- Laboratory: Smart Construction Information Technology Laboratory, SKKU
-- Research field: AI-based Construction Safety and Smart Construction
-- Website: https://sites.google.com/view/skkuscit
